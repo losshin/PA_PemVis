@@ -140,7 +140,7 @@ Public Class ReadPesanan
         If Login.id_pesanan = "" Then
             MsgBox("Belum Ada Data Yang Dipilih")
         Else
-            If MessageBox.Show("Yakin Ingin Menghapus Data Ini Dengan Id " + Login.id_pesanan + "?", "", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
+            If MessageBox.Show("Yakin Ingin Mengvalidasi Data Ini Dengan Id " + Login.id_pesanan + "?", "", MessageBoxButtons.YesNo) = Windows.Forms.DialogResult.Yes Then
                 CMD = New MySqlCommand("Delete from tblpesanan where id_pesanan = '" & Login.id_pesanan & "'", CONN)
                 CMD.ExecuteNonQuery()
                 Call tampilData()
