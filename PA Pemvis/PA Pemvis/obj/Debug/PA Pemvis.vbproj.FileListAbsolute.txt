@@ -1,0 +1,126 @@
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.AssemblyReference.cache
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.SuggestedBindingRedirects.cache
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Login.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Resources.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.GenerateResource.cache
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CoreCompileInputs.cache
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.exe.config
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.exe
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.pdb
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.xml
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.exe
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.xml
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.pdb
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\bin\Debug\mysql.data.dll
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CopyComplete
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuAdmin.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Register.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreateEkspedisi.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadEkspedisi.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdateEkspedisi.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreatePesanan.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuUser.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisi.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.StrukAdmin.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadPesanan.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdatePesanan.resources
+C:\Kev School\Pemrograman Visual\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisiUpdate.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.exe.config
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.exe
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.pdb
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.xml
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.AssemblyReference.cache
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.SuggestedBindingRedirects.cache
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreateEkspedisi.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreatePesanan.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Login.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuAdmin.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuUser.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Resources.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisi.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisiUpdate.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadEkspedisi.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadPesanan.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Register.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.StrukAdmin.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdateEkspedisi.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdatePesanan.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CopyComplete
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.exe
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.xml
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.pdb
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.AssemblyReference.cache
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.SuggestedBindingRedirects.cache
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreateEkspedisi.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreatePesanan.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Login.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuAdmin.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuUser.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Resources.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisi.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisiUpdate.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadEkspedisi.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadPesanan.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Register.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.StrukAdmin.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdateEkspedisi.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdatePesanan.resources
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.GenerateResource.cache
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CoreCompileInputs.cache
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.exe
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.xml
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.pdb
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.exe.config
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.exe
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.pdb
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.xml
+D:\ASYROF\Pemrograman_Visual\PROJEK AKHIR\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CopyComplete
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.exe.config
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.exe
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.pdb
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\bin\Debug\PA Pemvis.xml
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.AssemblyReference.cache
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.SuggestedBindingRedirects.cache
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreateEkspedisi.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreatePesanan.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Login.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuAdmin.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuUser.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Resources.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisi.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisiUpdate.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadEkspedisi.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadPesanan.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Register.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.StrukAdmin.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdateEkspedisi.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdatePesanan.resources
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.GenerateResource.cache
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CoreCompileInputs.cache
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CopyComplete
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.exe
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.xml
+E:\Kuliah\Semester 4\Praktikum\PemVis\PA\PA Pemvis 2\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.pdb
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.AssemblyReference.cache
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.SuggestedBindingRedirects.cache
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreateEkspedisi.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.CreatePesanan.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Login.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuAdmin.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.MenuUser.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Resources.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisi.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.PilihEkspedisiUpdate.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadEkspedisi.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.ReadPesanan.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.Register.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.StrukAdmin.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdateEkspedisi.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA_Pemvis.UpdatePesanan.resources
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.GenerateResource.cache
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.vbproj.CoreCompileInputs.cache
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.exe
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.xml
+C:\Kev Download\Random\PA Pemvis\PA Pemvis\obj\Debug\PA Pemvis.pdb
